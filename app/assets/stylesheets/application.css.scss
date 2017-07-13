@@ -22,12 +22,13 @@ h1, h2, h3 {
 }
 
 .home-callout, .navbar {
-    background: #ADA996;  /* fallback for old browsers */  /* Chrome 10-25, Safari 5.1-6 */
-    background: -webkit-gradient(linear, 100% 0, 0 0, from(#EAEAEA), color-stop(0.33, #DBDBDB), color-stop(0.67, #F2F2F2), to(#ADA996));
-    background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
-    background: -moz-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
-    background: -o-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
-    background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background: #70e1f5;  /* fallback for old browsers */
+    background: -webkit-gradient(linear, 100% 0, 0 0, from(#ffd194), to(#70e1f5));
+    background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);
+    background: -moz-linear-gradient(to right, #ffd194, #70e1f5);
+    background: -o-linear-gradient(to right, #ffd194, #70e1f5);
+    background: linear-gradient(to right, #ffd194, #70e1f5);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .navbar{
