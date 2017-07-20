@@ -1,0 +1,4 @@
+Memberships
+* user should see link for Plans on homepage
+* basic plan should point to standard signup form  
+* pro plan should point to a custom signup form
